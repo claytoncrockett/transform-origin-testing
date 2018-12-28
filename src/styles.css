@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rectangle {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.rectangle2 {
+  transform: rotate(90deg);
+  transition-duration: 2s;
+  transform-origin: 0% 50%;
+}
